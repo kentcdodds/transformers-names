@@ -97,5 +97,5 @@ MIT
 [roadmap]: https://github.com/kentcdodds/transformers-names/blob/master/other/ROADMAP.md
 [emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
 [all-contributors]: https://github.com/kentcdodds/all-contributors
-[json file]: https://github.com/kentcdodds/starwars-names/blob/master/src/transformers-names.json
+[json file]: https://github.com/kentcdodds/transformers-names/blob/master/src/transformers-names.json
 [sindresorhus]: https://github.com/sindresorhus
