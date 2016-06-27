@@ -1,5 +1,4 @@
 # transformers-names
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 Get a random character name from the Transformers franchise
 
