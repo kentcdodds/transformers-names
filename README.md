@@ -2,6 +2,8 @@
 
 Get a random character name from the Transformers franchise
 
+![transformers gif](other/transformers.gif)
+
 [![Build Status][build-badge]][build]
 [![Code Coverage][coverage-badge]][coverage]
 [![version][version-badge]][package]
